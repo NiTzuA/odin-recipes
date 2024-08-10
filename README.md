@@ -1,0 +1,1 @@
+This repo is used to demonstrate the different concepts I've learned from The Odin Project. These include how to setup an HTML boilerplate, how to use the different html elements, how to use some html attributes, how to link, how to setup images, and how the html structure looks like in general.
