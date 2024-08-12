@@ -1,0 +1,46 @@
+#index-page {
+    background-color: yellow;
+}
+
+#baguette-page {
+    background-color: beige;
+}
+
+.baguette-text {
+    font-family: "Papyrus";
+}
+
+#macaroni-page {
+    background-color: rgb(255, 174, 0);
+}
+
+.macaroni-text {
+    font-family: monospace;
+}
+
+#baguette-page {
+    background-color: beige;
+}
+
+.baguette-text {
+    font-family: "Papyrus";
+}
+
+.header-one {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blue;
+}
+
+.header-two {
+    font-family: "Lucida Handwriting";
+    font-weight: bold;
+    color: green;
+}
+
+.list-item {
+    background-color: crimson;
+    font-family: "Papyrus";
+    font-weight: bold;
+    color: purple;
+}
